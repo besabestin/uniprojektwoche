@@ -1,0 +1,16 @@
+.main {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.main-nav {
+    margin: 10px 0;
+    padding: 10px;
+    background: #e8f0f3;
+}
+    .main-nav a {
+        text-decoration: none;
+        margin-right: 1em;
+    }
+

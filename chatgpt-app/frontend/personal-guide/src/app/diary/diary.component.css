@@ -1,0 +1,65 @@
+.day-entry {
+    display: flex;
+}
+.day-entry .day-summary {
+    width: 200px;
+}
+.day-entry .diary-content {
+    flex-grow: 1;
+}
+.search-diary input[type="text"]{
+    margin-bottom: 20px;
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    min-width: 70%;
+}
+.day-entry .diary-content-read {
+    background: #f2f2f2;
+    padding: 20px 10px;
+    border-bottom: 2px solid #fff;
+}
+.day-entry .day-summary {
+    padding: 20px 10px;
+}
+
+.day-summary .day-sentiment {
+    padding: 10px 0;
+    font-size: 13px;
+    border-bottom: 1px solid #ddd;
+}
+
+.day-summary .day-events {
+    padding: 10px 0;
+    font-size: 13px;
+}
+
+/* form */
+.journal-form {
+    padding: 20px 0;
+}
+    .journal-form label {
+        font-weight: bold;
+        display: block;
+        margin-bottom: 5px;
+        color: #333;
+    }
+    .journal-form input[type="text"] {
+        margin-bottom: 20px;
+        padding: 8px;
+        border: 1px solid #aaa;
+        border-radius: 4px;
+        max-width: 110px;
+    }
+    .journal-form textarea {
+        border: 1px solid #ddd;
+        min-width: 60%;
+    }
+    .journal-form button {
+        margin-top: 10px;
+        padding: 5px 10px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }

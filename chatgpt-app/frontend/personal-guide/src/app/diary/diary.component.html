@@ -1,0 +1,47 @@
+<div class="diary-wrapper">
+    <div class="day-entry">
+        <div class="day-summary"></div>
+        <div class="diary-content">
+            <form class="journal-form">
+                <div>
+                    <h2>New Journal Entry:</h2>
+                </div>
+                <div>
+                    <label for="journal-date">Date of Journal:</label>
+                    <input type="text" name="journal-date" id="journal-date" placeholder="DD/MM/YYYY" [(ngModel)]="storyDate">
+                </div>
+                <div>
+                    <label for="journal-content">Content:</label>
+                    <textarea name="journal-content" id="journal-content" cols="30" rows="10" [(ngModel)]="storyContent"></textarea>
+                </div>
+                <div>
+                    <button (click)="saveStory()">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="day-entry">
+        <div class="day-summary"></div>
+        <div class="diary-content search-diary">
+            <div>
+                <input type="text" name="" id="" placeholder="Search your own diary..." [(ngModel)]="searchEntry" (keyup.enter)="searchInStory()">
+            </div>
+            <div>
+                <p>{{storyService.searchResult}}</p>
+            </div>
+        </div>
+    </div>
+    <div *ngIf="storyService.aLife">
+        <div class="day-entry" *ngFor="let story of storyService.aLife.stories">
+            <div class="day-summary">
+                <div class="day-sentiment" style="border-bottom: 1px solid #ddd;padding: 10px 0;">{{story.sentiment}}</div>
+                <div class="day-events" style="padding: 10px 0;">{{story.events}}</div>
+            </div>
+            <div class="diary-content diary-content-read">
+                <strong>{{story.when}}</strong>
+                <p>{{story.content}}</p>
+            </div>
+        </div>
+    </div>
+    
+</div>
