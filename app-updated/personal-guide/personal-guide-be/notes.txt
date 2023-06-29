@@ -1,0 +1,59 @@
+So what didn't work?
+
+- what is the next in this sequence? ABCD, EABC, DEAB, CDEA
+BCDEA
+- What is the next in the sequence? ABCDE, FABCD, EFABC, DEFAB, CDEFA
+BCDEFA
+- what would the word telecommunication become if you remove all the vowels?
+tlcmmntctn.
+- what would the word corruptioning become if you remove all the vowels?
+crptng
+- summarize in 2 words what you see inside this url: https://www.nytimes.com/live/2023/06/07/us/canada-wildfires-chicken-book-card
+Wildfires, News.
+- can you reverse the word lollipop?
+- reverse the word fruicontour
+ruotnuocirf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+some questions to ask
+- what kind of things made me happy?
+- What kind of things made me sad?
+- When did I lose my key?
+- How much did I pay for my key?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+['https://oaidalleapiprodscus.blob.core.windows.net/private/org-OxdzT6BEARtQKd8Z8cc3zquz/user-F4WzpoznGuCUj3J9FKCqYWDL/img-apc53HCC8wHqAP3SFZIT3xS8.png?st=2023-06-08T12%3A16%3A31Z&se=2023-06-08T14%3A16%3A31Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-06-07T22%3A21%3A35Z&ske=2023-06-08T22%3A21%3A35Z&sks=b&skv=2021-08-06&sig=Dpb8tHzZcAiwQsJ72G37zVDEVk/RW/5cu15uh%2By7obI%3D', 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-OxdzT6BEARtQKd8Z8cc3zquz/user-F4WzpoznGuCUj3J9FKCqYWDL/img-aB5A20eiIke4rHwmBQ1Ja9yA.png?st=2023-06-08T12%3A16%3A37Z&se=2023-06-08T14%3A16%3A37Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-06-07T22%3A22%3A07Z&ske=2023-06-08T22%3A22%3A07Z&sks=b&skv=2021-08-06&sig=iEA8byal/rUFASwBrh3bw9YA4vLNikD/KxA2h2TUIXo%3D', 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-OxdzT6BEARtQKd8Z8cc3zquz/user-F4WzpoznGuCUj3J9FKCqYWDL/img-q9D3g6qiHQYAQLhuZhzbi08d.png?st=2023-06-08T12%3A16%3A44Z&se=2023-06-08T14%3A16%3A44Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-06-07T22%3A23%3A22Z&ske=2023-06-08T22%3A23%3A22Z&sks=b&skv=2021-08-06&sig=afHfwj7VjTZn%2B7WKdYlJfCA4Y1HOK76k%2BWYd05DScZ0%3D']
+
+
+
+
+['https://oaidalleapiprodscus.blob.core.windows.net/private/org-OxdzT6BEARtQKd8Z8cc3zquz/user-F4WzpoznGuCUj3J9FKCqYWDL/img-D7FxygzsPn7h9zvHtwyiPTzj.png?st=2023-06-08T12%3A40%3A48Z&se=2023-06-08T14%3A40%3A48Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-06-07T22%3A22%3A53Z&ske=2023-06-08T22%3A22%3A53Z&sks=b&skv=2021-08-06&sig=pfq6G027FfF2GShB/IUSaFXzlzYyuKuwvffqyJgFieU%3D', 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-OxdzT6BEARtQKd8Z8cc3zquz/user-F4WzpoznGuCUj3J9FKCqYWDL/img-NJajNeykBjgl9NdoRamRd7L7.png?st=2023-06-08T12%3A40%3A55Z&se=2023-06-08T14%3A40%3A55Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-06-07T22%3A21%3A52Z&ske=2023-06-08T22%3A21%3A52Z&sks=b&skv=2021-08-06&sig=0oLTmz7IYZ8KdAd111wI4JAuGzAlgw9neScr5AKKUnk%3D']
